@@ -1,0 +1,1 @@
+In this file, I begin my first attempt of creating a python script, going off Networkchuck's learn python series he wants you to make a robot barista. There are two files here as I have a go at doing it on my own, then I use chatgpt to help me to better organise my scripts, and learn of this.
