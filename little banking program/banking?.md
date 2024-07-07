@@ -1,0 +1,1 @@
+in this, I have a go at creating a little bank program which gives you a balance in the beginning, the asking if you wish to deposit or withdraw, then continues based on those choices giving balances at the end.
