@@ -1,1 +1,2 @@
 in this, I have a go at creating a little bank program which gives you a balance in the beginning, the asking if you wish to deposit or withdraw, then continues based on those choices giving balances at the end.
+As with most projects I'll do, I have created my own script first to the best of my abilities, then run it through chatGPT to see what improvements I can make for next time and continue learning new things.
